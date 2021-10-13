@@ -2,7 +2,7 @@ import './App.css';
 import Header from './MyComponents/Header';
 import Footer from './MyComponents/Footer';
 import Todos from './MyComponents/Todos';
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import About from './MyComponents/About';
 import AddTodo from './MyComponents/AddTodo';
 import {
